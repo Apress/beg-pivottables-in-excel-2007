@@ -1,0 +1,501 @@
+EmpNo	FName	Lname	HireDate	TestDate	Location	Age	Score
+200010	Celine	Bloom	30-May-66	30-May-07	Sales Support	60	24
+200013	Agnes	Blatherwick	6-Aug-66	6-Aug-07	Engineering	62	97
+200023	Valerie	Dewsbury	20-Sep-67	20-Sep-07	Systems	58	24
+200024	Sophia	Jiwani	5-Jul-68	5-Jul-07	Administration	61	39
+200042	Pearl	Dufour	24-Jul-69	24-Jul-07	Accounting	60	68
+200045	Cathy	Neufeld	21-Sep-70	21-Sep-07	Sales Support	60	54
+200054	Daune	Bache	25-Mar-71	25-Mar-07	Sales Support	55	4
+200062	Gerald	Cassidy	16-Dec-71	16-Dec-07	Administration	54	91
+200063	Ron	Conrad	20-Feb-72	20-Feb-07	Finance	56	0
+200087	Erica	Yang	26-Jun-73	26-Jun-07	Sales	62	9
+200088	Courtney	Brackney	21-Jul-73	21-Jul-07	Administration	62	54
+200104	Alex	Howell	12-Nov-73	12-Nov-07	Finance	60	9
+200115	Sharon	Tripp	27-Dec-73	27-Dec-07	Distribution	56	98
+200120	Danielle	Yim	27-Jan-74	27-Jan-07	Human Resources	61	75
+200122	Eve	Sweeting	20-Mar-74	20-Mar-07	Sales	53	6
+200124	Duane	Bruce	16-May-74	16-May-07	Maintenance	67	70
+200152	Rod	Keats	27-Sep-75	27-Sep-07	Customer Service	57	85
+200161	Norma	Manson	29-Jan-76	29-Jan-07	Systems	49	67
+200168	Hank	Holt	12-May-76	12-May-07	Human Resources	52	68
+200175	Chelsey	Beaulieu	29-Sep-76	29-Sep-07	Research	61	78
+200176	Henri	Schneider	30-Sep-76	30-Sep-07	Administration	53	90
+200184	Chelsea	McLaughlin	9-Dec-76	9-Dec-07	Accounting	52	11
+200185	Sandra	Roberts	23-Dec-76	23-Dec-07	Research	61	2
+200188	Shauna	Johnston	10-Jan-77	10-Jan-07	Systems	59	95
+200211	Jodi	Bass	15-Aug-77	15-Aug-07	Sales Support	48	44
+200219	Marianne	Brakefield	19-Nov-77	19-Nov-07	Administration	56	11
+200220	Jennifer	Aulbrook	6-Dec-77	6-Dec-07	Accounting	55	6
+200226	Harvey	Griffin	18-Apr-78	18-Apr-07	Customer Service	52	65
+200231	Shelby	Mutala	26-Jul-78	26-Jul-07	Communications	60	32
+200243	Arnold	Dennis	20-Sep-78	20-Sep-07	Research	48	19
+200248	Marnie	Moir	22-Nov-78	22-Nov-07	Sales	49	48
+200249	Brennan	Alfonsi	15-Dec-78	15-Dec-07	Research	47	13
+200251	Larry	Engmann	24-Dec-78	24-Dec-07	Human Resources	48	40
+200256	Robyn	McLeay	10-Feb-79	10-Feb-07	Engineering	55	25
+200268	Ann	Dupuis	6-Jun-79	6-Jun-07	Sales	50	62
+200269	Robyn	King	22-Jun-79	22-Jun-07	Maintenance	49	23
+200270	Andrey	Walker	14-Jul-79	14-Jul-07	Research	58	95
+200280	Rena	Webster	26-Sep-79	26-Sep-07	Marketing	59	67
+200310	Kerry	Fraser	26-Sep-80	26-Sep-07	Human Resources	53	42
+200315	Robert	Blakley	22-Dec-80	22-Dec-07	Sales	50	91
+200324	Joe	Ryan	22-Mar-81	22-Mar-07	Research	49	20
+200333	Fernand	Jackson	21-Oct-81	21-Oct-07	Sales	46	4
+200337	Gilles	Moran	17-Dec-81	17-Dec-07	Marketing	64	73
+200369	Jacques	Wylie	1-Sep-82	1-Sep-07	Sales Support	62	23
+200375	Annette	Gaudette	12-Sep-82	12-Sep-07	Finance	48	3
+200392	Sylvio	Garant	10-Nov-82	10-Nov-07	Human Resources	44	31
+200418	Timothy	Jamieson	4-Apr-83	4-Apr-07	Finance	60	8
+200421	Mabel	Chitty	26-Apr-83	26-Apr-07	Engineering	57	79
+200439	Desh	Nixon	18-Aug-83	18-Aug-07	Systems	60	6
+200448	Erin	Brock	8-Dec-83	8-Dec-07	Communications	68	71
+200469	Gord	Taylor	22-Feb-84	22-Feb-07	Accounting	46	55
+200478	Marcia	Nadon	13-Jul-84	13-Jul-07	Sales	43	71
+200481	Vincent	Lapierre	17-Jul-84	17-Jul-07	Sales	42	60
+200488	Diane	Ryton	24-Jul-84	24-Jul-07	Maintenance	48	25
+200504	Ken	Rioux	6-Dec-84	6-Dec-07	Engineering	47	67
+200514	Bianca	Mauro	21-Feb-85	21-Feb-07	Research	60	35
+200518	Fern	Billard	6-Mar-85	6-Mar-07	Finance	60	77
+200541	Megan	Collard	7-Jul-85	7-Jul-07	Administration	42	13
+200550	Martha	Kinney	21-Jul-85	21-Jul-07	Accounting	41	69
+200556	Dean	Wolfe	29-Jul-85	29-Jul-07	Sales	41	89
+200557	Alok	Keith	30-Jul-85	30-Jul-07	Finance	42	75
+200564	Tyler	Durette	8-Nov-85	8-Nov-07	Communications	41	21
+200566	Warren	Diesta	10-Nov-85	10-Nov-07	Sales	56	84
+200585	Ramona	Couillard	8-Mar-86	8-Mar-07	Sales	47	57
+200597	Yvette	Grody	24-May-86	24-May-07	Sales	40	61
+200604	Charles	Teixeira	11-Jun-86	11-Jun-07	Systems	43	72
+200607	Lucy	Fox	16-Jun-86	16-Jun-07	Accounting	47	88
+200618	Esther	Lowe	1-Aug-86	1-Aug-07	Research	39	26
+200634	Maxine	Dupuis	16-Jan-87	16-Jan-07	Finance	38	83
+200642	Ernest	Fairless	18-Feb-87	18-Feb-07	Sales	54	49
+200664	Doug	Hartman	1-May-87	1-May-07	Administration	42	36
+200668	Andy	Fitzpatrick	17-Jun-87	17-Jun-07	Sales	47	91
+200673	Janie	Niranjanan	8-Jul-87	8-Jul-07	Finance	55	54
+200678	Monica	Horton	2-Sep-87	2-Sep-07	Customer Service	49	0
+200679	Lorraine	Kott	28-Sep-87	28-Sep-07	Customer Service	50	48
+200692	Tina	Foreman	9-Dec-87	9-Dec-07	Distribution	40	73
+200698	Meda	Mondor	19-Mar-88	19-Mar-07	Finance	51	30
+200708	Tamara	Baisley	2-Jun-88	2-Jun-07	Accounting	44	30
+200714	Frances	Cheung	17-Jul-88	17-Jul-07	Accounting	48	8
+200722	Deb	Goetz	17-Aug-88	17-Aug-07	Human Resources	41	38
+200727	Nancy	Hedley	10-Sep-88	10-Sep-07	Communications	47	93
+200734	Kirk	Pireau	17-Oct-88	17-Oct-07	Human Resources	43	4
+200756	Donna	Foy	11-Dec-88	11-Dec-07	Distribution	41	98
+200766	Mandy	Machon	5-Feb-89	5-Feb-07	Marketing	54	81
+200774	Gail	Wilcox	16-Feb-89	16-Feb-07	Accounting	37	21
+200778	Richard	Dionne	19-Mar-89	19-Mar-07	Administration	39	80
+200779	Jim	Lavers	25-Mar-89	25-Mar-07	Human Resources	61	51
+200782	Eve	Deguire	29-Mar-89	29-Mar-07	Human Resources	49	31
+200810	Tania	Gendron	27-Apr-89	27-Apr-07	Sales Support	63	86
+200818	Marsha	Wajdi	27-May-89	27-May-07	Communications	37	75
+200822	Ram	Wakeham	29-Jun-89	29-Jun-07	Maintenance	58	5
+200831	Cecil	Hogan	8-Jul-89	8-Jul-07	Engineering	49	32
+200843	Janice	August	28-Jul-89	28-Jul-07	Sales	39	94
+200854	Arlene	Rowland	11-Sep-89	11-Sep-07	Sales	59	87
+200856	Henry	Evanik	10-Oct-89	10-Oct-07	Finance	59	66
+200862	Jerry	Hynes	19-Oct-89	19-Oct-07	Distribution	43	42
+200881	Jose	Hyak	31-Dec-89	31-Dec-07	Finance	42	29
+200885	Blain	Anders	14-Feb-90	14-Feb-07	Marketing	44	93
+200887	Lucille	Redford	4-Mar-90	4-Mar-07	Customer Service	35	24
+200889	Rex	Wong	10-Mar-90	10-Mar-07	Sales	37	5
+200899	Sue	Deering	27-Aug-90	27-Aug-07	Engineering	47	94
+200903	Scott	Chen	3-Sep-90	3-Sep-07	Customer Service	53	90
+200904	Devon	Scott	10-Sep-90	10-Sep-07	Administration	65	27
+200906	Carla	Martin	12-Oct-90	12-Oct-07	Systems	43	53
+200907	Shari	Burrell	2-Nov-90	2-Nov-07	Distribution	54	8
+200911	Jessica	Saunders	11-Dec-90	11-Dec-07	Communications	44	55
+200918	Rocky	Lauriault	9-Feb-91	9-Feb-07	Maintenance	59	98
+200919	MaryAnn	Gagne	20-Feb-91	20-Feb-07	Accounting	37	25
+200922	Fran	Abel	24-Feb-91	24-Feb-07	Customer Service	35	77
+200946	Christina	Seguin	8-May-91	8-May-07	Accounting	48	88
+200948	Tina	Quesnelle	3-Jun-91	3-Jun-07	Accounting	39	54
+200950	Marlene	Kobas	8-Jun-91	8-Jun-07	Distribution	39	51
+200955	Heidi	Poulin	24-Jun-91	24-Jun-07	Communications	47	78
+200966	Lena	Kosta	21-Jul-91	21-Jul-07	Administration	41	78
+200974	Michelle	Gallant	26-Aug-91	26-Aug-07	Systems	56	8
+200989	Courtney	Solvason	13-Oct-91	13-Oct-07	Sales Support	55	61
+200991	Susan	Mayne	1-Nov-91	1-Nov-07	Communications	59	87
+201011	Jacques	Billows	9-Mar-92	9-Mar-07	Research	42	36
+201018	Ashley	Spencer	29-Mar-92	29-Mar-07	Maintenance	43	89
+201019	Patrick	Garnick	2-Apr-92	2-Apr-07	Sales Support	49	82
+201022	Maria	Russell	6-Apr-92	6-Apr-07	Communications	60	75
+201027	Mel	Santana	5-May-92	5-May-07	Communications	39	11
+201032	Connie	Dumont	13-May-92	13-May-07	Maintenance	37	59
+201048	Shawn	Wood	4-Jul-92	4-Jul-07	Research	45	74
+201051	Fred	Casey	17-Jul-92	17-Jul-07	Administration	48	63
+201053	Bernice	Mannah	12-Aug-92	12-Aug-07	Accounting	48	45
+201054	Kerry	Larson	3-Sep-92	3-Sep-07	Customer Service	45	68
+201058	Stan	Small	3-Oct-92	3-Oct-07	Distribution	65	8
+201060	Garry	Yu	1-Nov-92	1-Nov-07	Sales	38	67
+201061	Shelby	Richardson	6-Nov-92	6-Nov-07	Systems	55	71
+201070	Sue	Hudon	4-Jan-93	4-Jan-07	Maintenance	33	85
+201076	Joanna	Shano	4-Jan-93	4-Jan-07	Systems	32	14
+201089	Ross	McClellan	15-Mar-93	15-Mar-07	Communications	33	52
+201101	Alice	Ward	6-Apr-93	6-Apr-07	Research	49	1
+201110	Merv	Wilhelm	19-Apr-93	19-Apr-07	Sales	48	28
+201113	Rhonda	Peterson	3-May-93	3-May-07	Distribution	34	81
+201119	Tammy	Langlois	29-May-93	29-May-07	Sales	49	35
+201127	Vicky	Dyck	11-Jun-93	11-Jun-07	Sales	59	68
+201152	Jacki	Lamonte	22-Aug-93	22-Aug-07	Administration	34	43
+201168	Clarke	Hall	19-Oct-93	19-Oct-07	Sales Support	46	66
+201194	Devon	Burwell	3-Jan-94	3-Jan-07	Maintenance	50	7
+201203	Trevor	Spratt	19-Jan-94	19-Jan-07	Administration	42	36
+201220	Mabel	Michaud	20-Feb-94	20-Feb-07	Sales	53	39
+201221	Gord	Young	20-Feb-94	20-Feb-07	Maintenance	33	80
+201229	Marshall	Poirier	4-Mar-94	4-Mar-07	Sales	31	65
+201234	Jody	Taylor	5-Mar-94	5-Mar-07	Systems	37	62
+201237	Teresa	Basque	8-Mar-94	8-Mar-07	Maintenance	32	86
+201238	Sylvia	Banda	11-Mar-94	11-Mar-07	Sales	33	26
+201239	Julie	Hall	17-Mar-94	17-Mar-07	Customer Service	48	21
+201243	Marlo	VanAllen	19-Mar-94	19-Mar-07	Research	48	7
+201250	Fred	Fraser	5-Apr-94	5-Apr-07	Engineering	43	12
+201256	George	Shatosky	7-Apr-94	7-Apr-07	Finance	40	7
+201259	Kenneth	Jo	22-Apr-94	22-Apr-07	Research	55	93
+201273	Wilma	Ames	24-May-94	24-May-07	Accounting	54	10
+201276	Rodney	Renaud	11-Jun-94	11-Jun-07	Distribution	35	81
+201277	Georgina	Stevenson	13-Jun-94	13-Jun-07	Maintenance	63	91
+201278	Carlos	Sumra	15-Jun-94	15-Jun-07	Accounting	62	10
+201280	Kathleen	Guignard	14-Jul-94	14-Jul-07	Research	49	69
+201283	Matthew	Cronk	30-Jul-94	30-Jul-07	Sales Support	36	4
+201291	Robyn	Dixon	17-Aug-94	17-Aug-07	Administration	43	90
+201296	Marie	VanAllen	18-Sep-94	18-Sep-07	Human Resources	38	68
+201302	Carolyn	Rossiter	26-Sep-94	26-Sep-07	Administration	33	56
+201310	Jacques	Choma	28-Sep-94	28-Sep-07	Marketing	39	21
+201315	Sophia	Cairns	7-Oct-94	7-Oct-07	Engineering	49	99
+201329	Alvin	Brady	27-Oct-94	27-Oct-07	Communications	50	96
+201340	Randal	Felzmann	26-Nov-94	26-Nov-07	Distribution	38	7
+201360	Allen	Halloran	3-Feb-95	3-Feb-07	Marketing	34	29
+201365	Robin	Hanna	24-Feb-95	24-Feb-07	Communications	50	2
+201372	Gloria	Alcorn	27-Mar-95	27-Mar-07	Accounting	35	68
+201378	Daryl	Hingano	28-May-95	28-May-07	Sales	59	25
+201380	Jim	Long	2-Jun-95	2-Jun-07	Marketing	33	90
+201390	Amos	Cunningham	10-Jun-95	10-Jun-07	Research	32	6
+201397	Francine	Fraser	15-Jun-95	15-Jun-07	Sales	35	59
+201400	Claude	Black	2-Jul-95	2-Jul-07	Sales	32	3
+201405	Bernie	Lopez	16-Jul-95	16-Jul-07	Research	33	56
+201409	Grant	Redman	21-Jul-95	21-Jul-07	Marketing	34	74
+201411	Amber	McLean	5-Aug-95	5-Aug-07	Engineering	56	30
+201416	Stephanie	Haller	31-Aug-95	31-Aug-07	Administration	43	13
+201438	Gene	Barber	17-Oct-95	17-Oct-07	Human Resources	46	21
+201439	Danielle	Lise	21-Oct-95	21-Oct-07	Systems	39	81
+201440	Vince	Litwin	4-Nov-95	4-Nov-07	Distribution	52	40
+201444	Corey	Pardy	7-Dec-95	7-Dec-07	Sales	32	42
+201445	Fay	MacKinnon	27-Dec-95	27-Dec-07	Communications	59	37
+201453	Hazel	Lafontaine	9-Jan-96	9-Jan-07	Systems	55	91
+201455	Edward	Simpson	15-Jan-96	15-Jan-07	Sales	63	100
+201456	Barb	Biggar	18-Jan-96	18-Jan-07	Finance	29	56
+201464	Denice	George	27-Feb-96	27-Feb-07	Sales Support	46	13
+201467	Jansen	Whelan	20-Mar-96	20-Mar-07	Distribution	42	22
+201469	Shirley	Gillis	28-Mar-96	28-Mar-07	Engineering	49	43
+201475	Garth	Watts	3-Apr-96	3-Apr-07	Sales Support	30	57
+201483	Sven	Brett	3-May-96	3-May-07	Distribution	36	70
+201484	Joan	Dakers	4-May-96	4-May-07	Accounting	47	2
+201490	Collin	Grant	14-May-96	14-May-07	Communications	40	54
+201496	Sandy	McDonald	22-May-96	22-May-07	Engineering	36	27
+201500	Shamin	Aggio	15-Jun-96	15-Jun-07	Finance	29	90
+201504	Lou	Kelba	22-Jun-96	22-Jun-07	Communications	36	72
+201506	Pierre	Henkel	28-Jun-96	28-Jun-07	Accounting	30	100
+201523	Ella	Wright	21-Aug-96	21-Aug-07	Marketing	51	59
+201527	Mario	Angel	16-Sep-96	16-Sep-07	Sales Support	50	26
+201531	Clarke	Linnartz	22-Oct-96	22-Oct-07	Research	40	63
+201532	Jason	Duguid	29-Oct-96	29-Oct-07	Sales	37	0
+201535	Evelyn	Guernsey	8-Nov-96	8-Nov-07	Sales Support	53	92
+201560	Wanda	Dymott	17-Dec-96	17-Dec-07	Maintenance	40	34
+201565	Tim	Seguin	2-Jan-97	2-Jan-07	Administration	28	24
+201566	Sylvie	Randall	6-Jan-97	6-Jan-07	Accounting	41	99
+201568	Melody	Byron	29-Jan-97	29-Jan-07	Engineering	54	5
+201593	Rosalind	Carson	6-Apr-97	6-Apr-07	Maintenance	28	85
+201596	David	Hyndman	15-Apr-97	15-Apr-07	Maintenance	58	20
+201601	Francine	Boulton	9-May-97	9-May-07	Communications	53	35
+201603	Lorraine	Moody	24-May-97	24-May-07	Marketing	38	73
+201622	Harry	Birt	22-Jun-97	22-Jun-07	Maintenance	43	74
+201625	Bob	Linklater	7-Jul-97	7-Jul-07	Administration	30	83
+201635	Matthew	Bergeson	25-Jul-97	25-Jul-07	Sales	47	98
+201646	Darren	Nickels	31-Aug-97	31-Aug-07	Marketing	29	92
+201649	Eileen	Clark	8-Sep-97	8-Sep-07	Systems	38	80
+201655	Tracy	Cecile	15-Sep-97	15-Sep-07	Accounting	30	58
+201659	Gregory	Faulkner	5-Oct-97	5-Oct-07	Systems	30	13
+201661	Kyle	McGregor	11-Oct-97	11-Oct-07	Administration	49	5
+201677	Cheryl	Carey	22-Nov-97	22-Nov-07	Systems	30	49
+201683	Yvonne	Jansen	14-Dec-97	14-Dec-07	Sales	52	57
+201717	Eric	Poirier	13-Mar-98	13-Mar-07	Customer Service	40	31
+201720	Judith	Storms	13-Mar-98	13-Mar-07	Administration	27	98
+201731	Vincent	Strayer	28-Apr-98	28-Apr-07	Human Resources	29	81
+201738	Marlo	Redford	18-May-98	18-May-07	Accounting	29	25
+201741	Frances	Grant	28-May-98	28-May-07	Sales	29	10
+201752	Mandy	Basford	28-Jun-98	28-Jun-07	Distribution	66	50
+201784	Tara	Grosman	16-Oct-98	16-Oct-07	Finance	51	87
+201789	Terry	Keeler	29-Oct-98	29-Oct-07	Distribution	63	37
+201797	Francis	Burton	26-Nov-98	26-Nov-07	Systems	35	2
+201809	Abe	Gordon	6-Jan-99	6-Jan-07	Administration	28	72
+201826	Alice	Michaelis	6-Feb-99	6-Feb-07	Research	29	49
+201849	Jenna	Storzuk	19-Mar-99	19-Mar-07	Sales	43	53
+201850	Dean	Peterson	21-Mar-99	21-Mar-07	Customer Service	43	78
+201860	Ashleigh	Keller	1-Apr-99	1-Apr-07	Sales	39	86
+201871	Brian	Lu	7-Apr-99	7-Apr-07	Communications	28	26
+201881	Veronica	Datema	1-May-99	1-May-07	Maintenance	51	58
+201889	Scott	Fleming	16-May-99	16-May-07	Customer Service	32	75
+201899	Tyson	Knoll	12-Jun-99	12-Jun-07	Sales	27	77
+201904	Selena	Delaney	21-Jun-99	21-Jun-07	Human Resources	37	82
+201920	Marshall	Derlago	1-Jul-99	1-Jul-07	Finance	28	49
+201921	Marvin	Robertson	11-Jul-99	11-Jul-07	Systems	47	37
+201930	Jocelyn	Harcott	21-Jul-99	21-Jul-07	Engineering	41	1
+201940	Arthur	Eckert	27-Jul-99	27-Jul-07	Accounting	45	25
+201943	Roxanne	Chu	4-Aug-99	4-Aug-07	Sales	27	16
+201945	Frank	Buckle	7-Aug-99	7-Aug-07	Administration	30	61
+201950	Norma	Wilson	18-Aug-99	18-Aug-07	Research	37	43
+201958	Vern	Hitchcock	2-Sep-99	2-Sep-07	Marketing	46	59
+201959	Leigh	Bromley	18-Sep-99	18-Sep-07	Engineering	37	16
+201962	Lynn	Crawford	1-Oct-99	1-Oct-07	Sales Support	41	94
+201973	Deborah	MacMullin	9-Oct-99	9-Oct-07	Human Resources	35	10
+201975	Marion	Alderman	11-Oct-99	11-Oct-07	Sales	44	8
+201978	Thelma	Brunton	12-Oct-99	12-Oct-07	Customer Service	59	30
+201987	Mona	Forsberg	23-Nov-99	23-Nov-07	Marketing	27	6
+201992	Alanna	Russell	12-Dec-99	12-Dec-07	Maintenance	57	8
+201998	Adnan	Bachra	31-Dec-99	31-Dec-07	Distribution	39	43
+202008	Dwayne	Hendrix	24-Jan-00	24-Jan-07	Human Resources	25	59
+202015	Rosalind	Au	31-Jan-00	31-Jan-07	Communications	30	90
+202016	Larry	Giese	8-Feb-00	8-Feb-07	Sales	25	63
+202017	Vivian	Chikousky	14-Feb-00	14-Feb-07	Research	28	7
+202019	Ed	Church	24-Feb-00	24-Feb-07	Sales	26	1
+202020	Cindy	Cholette	14-Mar-00	14-Mar-07	Maintenance	26	45
+202029	Lois	Hardie	22-Mar-00	22-Mar-07	Human Resources	30	33
+202030	Mehdi	McMillan	23-Mar-00	23-Mar-07	Communications	33	47
+202040	Bruce	Rodney	31-Mar-00	31-Mar-07	Engineering	47	41
+202043	Bonnie	Hanna	7-Apr-00	7-Apr-07	Engineering	31	78
+202051	Wendi	Blouin	19-May-00	19-May-07	Accounting	61	35
+202057	Gil	Deshwal	3-Jun-00	3-Jun-07	Administration	31	79
+202065	Leonard	Helland	5-Jun-00	5-Jun-07	Human Resources	39	70
+202069	Rebecca	Barkman	10-Jun-00	10-Jun-07	Accounting	25	19
+202070	Janet	Boulet	11-Jun-00	11-Jun-07	Engineering	32	43
+202074	Wanda	Birn	17-Jul-00	17-Jul-07	Maintenance	28	76
+202079	Dawn	Hart	2-Aug-00	2-Aug-07	Administration	29	84
+202116	Brent	Spencer	8-Sep-00	8-Sep-07	Communications	40	42
+202117	Pierre	Kent	9-Sep-00	9-Sep-07	Engineering	25	46
+202122	Jodi	McCall	11-Sep-00	11-Sep-07	Administration	49	81
+202125	Yvonne	Tamblyn	14-Sep-00	14-Sep-07	Distribution	25	95
+202126	Rick	Bryant	27-Sep-00	27-Sep-07	Maintenance	44	32
+202135	Scott	Askham	2-Oct-00	2-Oct-07	Sales	56	59
+202146	Blair	Dencsak	2-Nov-00	2-Nov-07	Maintenance	25	12
+202183	Vanessa	Ronsberg	7-Dec-00	7-Dec-07	Systems	49	66
+202186	Vandy	Stride	11-Dec-00	11-Dec-07	Research	44	42
+202232	Alexander	Nanias	1-Feb-01	1-Feb-07	Research	28	31
+202233	Neil	Drake	7-Feb-01	7-Feb-07	Accounting	29	0
+202259	Martin	Mallard	11-Mar-01	11-Mar-07	Systems	48	87
+202271	Connie	D'Souza	16-Apr-01	16-Apr-07	Accounting	43	57
+202280	Edith	Chiang	25-Apr-01	25-Apr-07	Customer Service	45	62
+202287	Shelley	Bourgon	4-May-01	4-May-07	Human Resources	26	32
+202291	Lorne	Engler	11-May-01	11-May-07	Research	26	12
+202296	Fern	McCauley	16-May-01	16-May-07	Sales Support	40	91
+202332	Roop	Dhanjal	3-Aug-01	3-Aug-07	Human Resources	39	33
+202333	Stephen	Bracken	8-Aug-01	8-Aug-07	Systems	27	36
+202337	Linda	Renaud	20-Aug-01	20-Aug-07	Systems	35	59
+202341	Dan	Jodhka	7-Sep-01	7-Sep-07	Engineering	42	94
+202349	Skye	Smallwood	21-Sep-01	21-Sep-07	Accounting	32	84
+202351	Lou	Austi	24-Sep-01	24-Sep-07	Human Resources	41	2
+202355	Alison	Pool	10-Oct-01	10-Oct-07	Sales Support	29	60
+202365	Harriet	Keast	29-Oct-01	29-Oct-07	Finance	42	75
+202376	Carla	Keeler	19-Nov-01	19-Nov-07	Distribution	26	15
+202384	Sylvie	Dieleman	26-Nov-01	26-Nov-07	Sales Support	32	4
+202392	Abigail	Stafford	16-Dec-01	16-Dec-07	Customer Service	32	38
+202411	Brittany	Tuck	29-Dec-01	29-Dec-07	Communications	35	63
+202420	Chayne	Doud	10-Jan-02	10-Jan-07	Finance	28	48
+202431	Irene	Bernard	10-Feb-02	10-Feb-07	Distribution	26	88
+202438	Carmen	Viau	15-Feb-02	15-Feb-07	Sales Support	47	42
+202443	Rosalind	Reardon	10-Mar-02	10-Mar-07	Accounting	40	10
+202444	Jennifer	Bissell	12-Mar-02	12-Mar-07	Systems	23	2
+202465	Vivian	Walker	2-May-02	2-May-07	Human Resources	26	69
+202469	Janice	Griffin	15-May-02	15-May-07	Systems	26	52
+202470	Lynette	McNeil	16-May-02	16-May-07	Sales	39	39
+202474	Marg	Sprecker	29-May-02	29-May-07	Engineering	57	36
+202481	Dan	Ohlman	8-Jun-02	8-Jun-07	Communications	52	74
+202483	Sydney	MacRae	13-Jun-02	13-Jun-07	Customer Service	36	25
+202491	Chuck	Girardi	4-Jul-02	4-Jul-07	Accounting	35	82
+202500	Todd	Malloy	23-Jul-02	23-Jul-07	Engineering	23	76
+202518	Arlene	Elliott	8-Aug-02	8-Aug-07	Research	33	22
+202520	Jon	Webb	13-Aug-02	13-Aug-07	Research	63	32
+202533	Ernest	Peterson	26-Aug-02	26-Aug-07	Human Resources	28	28
+202545	Kathleen	Moore	18-Oct-02	18-Oct-07	Sales Support	36	5
+202571	Syed	Clay	19-Nov-02	19-Nov-07	Administration	47	88
+202594	Sheldon	Derksen	14-Dec-02	14-Dec-07	Communications	25	87
+202596	Denice	Martin	25-Dec-02	25-Dec-07	Research	28	32
+202606	Marcia	Ezzard	9-Jan-03	9-Jan-07	Sales Support	42	57
+202608	Margaret	Dion	22-Jan-03	22-Jan-07	Sales	26	57
+202652	Jack	Hogg	31-Mar-03	31-Mar-07	Maintenance	24	20
+202664	Wanda	Ferraro	19-Apr-03	19-Apr-07	Human Resources	31	84
+202670	Jodi	Hunter	27-Apr-03	27-Apr-07	Sales	31	34
+202677	Vandy	Rafferty	15-May-03	15-May-07	Accounting	40	70
+202687	Alexander	Jorgensen	1-Jun-03	1-Jun-07	Maintenance	54	96
+202691	Larry	Ritchie	8-Jun-03	8-Jun-07	Maintenance	22	14
+202701	Tabitha	Bondy	24-Jun-03	24-Jun-07	Sales	28	55
+202711	Leon	Kent	9-Jul-03	9-Jul-07	Maintenance	25	94
+202712	Agnes	Houghton	14-Jul-03	14-Jul-07	Systems	22	80
+202716	Raj	Madjidi	18-Jul-03	18-Jul-07	Accounting	56	23
+202731	Claudia	Touchie	3-Aug-03	3-Aug-07	Customer Service	28	38
+202751	Nolan	Nadolski	2-Sep-03	2-Sep-07	Sales	23	87
+202763	Keith	Kirby	17-Sep-03	17-Sep-07	Communications	22	11
+202807	Alma	Courtney	6-Nov-03	6-Nov-07	Sales	43	38
+202828	Kirsten	Beagle	6-Dec-03	6-Dec-07	Finance	28	24
+202837	Ashley	Kirk	6-Dec-03	6-Dec-07	Customer Service	26	97
+202844	Georgia	Adams	20-Dec-03	20-Dec-07	Human Resources	22	86
+202850	Sam	Pankiuw	5-Jan-04	5-Jan-07	Marketing	21	32
+202854	Eric	Hong	17-Jan-04	17-Jan-07	Accounting	55	69
+202856	Connie	Fipke	19-Jan-04	19-Jan-07	Human Resources	63	72
+202860	Mark	Holditch	22-Jan-04	22-Jan-07	Sales	25	46
+202863	Victoria	Robertson	27-Jan-04	27-Jan-07	Administration	22	68
+202867	Tricia	Gillis	29-Jan-04	29-Jan-07	Systems	26	89
+202868	Tania	Bianco	3-Feb-04	3-Feb-07	Sales	33	51
+202894	Eve	Poirier	25-Feb-04	25-Feb-07	Administration	25	27
+202914	Henri	MacLellan	19-Mar-04	19-Mar-07	Research	35	58
+202917	Hal	Felgate	29-Mar-04	29-Mar-07	Sales	25	14
+202921	Ken	Lamonte	30-Mar-04	30-Mar-07	Research	32	19
+202922	Laura	Graham	1-Apr-04	1-Apr-07	Finance	30	89
+202925	Shane	Jackson	7-Apr-04	7-Apr-07	Sales	21	13
+202930	Trace	Holland	8-Apr-04	8-Apr-07	Research	25	11
+202936	Sven	Tripp	18-Apr-04	18-Apr-07	Human Resources	25	100
+202945	Myrna	Maguire	1-May-04	1-May-07	Communications	21	97
+202954	Millie	Molnar	7-May-04	7-May-07	Sales Support	21	87
+202959	Jason	Verdone	10-May-04	10-May-07	Human Resources	28	62
+202967	Lina	Olsen	14-May-04	14-May-07	Sales	21	49
+202969	Elizabeth	Chiu	15-May-04	15-May-07	Sales	21	71
+202985	Joel	Gilders	14-Jun-04	14-Jun-07	Systems	28	1
+202986	Francis	Danis	15-Jun-04	15-Jun-07	Sales	29	71
+202988	Nicole	Reader	20-Jun-04	20-Jun-07	Systems	38	72
+203005	Esther	Jutras	5-Jul-04	5-Jul-07	Sales Support	27	59
+203016	Ashleigh	Andersen	25-Jul-04	25-Jul-07	Finance	21	50
+203021	Rob	Shah	4-Aug-04	4-Aug-07	Communications	22	61
+203029	Isabel	Strong	6-Aug-04	6-Aug-07	Systems	50	74
+203030	Dana	O'Sullivan	8-Aug-04	8-Aug-07	Distribution	21	5
+203035	Lloyd	Brassard	15-Aug-04	15-Aug-07	Communications	31	98
+203044	Eugene	Bouvier	4-Sep-04	4-Sep-07	Distribution	31	97
+203045	Don	Byald	6-Sep-04	6-Sep-07	Sales	42	93
+203048	Christie	Chokan	7-Sep-04	7-Sep-07	Sales	28	71
+203049	Lucy	Jack	10-Sep-04	10-Sep-07	Sales	21	37
+203050	Barbara	Proulx	13-Sep-04	13-Sep-07	Communications	38	32
+203056	Joyce	Good	18-Sep-04	18-Sep-07	Systems	28	26
+203063	Nick	Maguire	1-Oct-04	1-Oct-07	Human Resources	25	97
+203074	Nina	Giancola	22-Oct-04	22-Oct-07	Marketing	54	65
+203076	Penny	Concannon	31-Oct-04	31-Oct-07	Distribution	22	73
+203084	Ronita	Mehra	6-Nov-04	6-Nov-07	Customer Service	27	99
+203089	Celine	Schultz	16-Nov-04	16-Nov-07	Sales	39	99
+203094	Nicole	Stephenson	26-Nov-04	26-Nov-07	Sales	38	32
+203099	Angie	Marriott	1-Dec-04	1-Dec-07	Sales	35	43
+203113	Michael	Iacurci	28-Dec-04	28-Dec-07	Communications	30	21
+203128	Lucas	Emery	24-Jan-05	24-Jan-07	Communications	20	86
+203136	Jon	Rouselle	26-Jan-05	26-Jan-07	Accounting	39	47
+203138	Leona	Billings	26-Jan-05	26-Jan-07	Accounting	23	86
+203140	Aman	Kutz	8-Feb-05	8-Feb-07	Customer Service	44	1
+203142	Lindsay	Brunet	15-Feb-05	15-Feb-07	Research	57	45
+203144	Cassie	Gordon	15-Feb-05	15-Feb-07	Sales Support	42	0
+203151	Anita	Meyn	22-Feb-05	22-Feb-07	Engineering	20	24
+203155	Gordon	Chopp	24-Feb-05	24-Feb-07	Engineering	59	7
+203156	Dick	Hayes	27-Feb-05	27-Feb-07	Finance	22	1
+203159	Marsha	Mones	14-Mar-05	14-Mar-07	Administration	32	2
+203162	Myrna	Stang	20-Mar-05	20-Mar-07	Marketing	24	86
+203179	Rebecca	Howell	9-Apr-05	9-Apr-07	Human Resources	59	27
+203185	Emily	Bandhu	12-Apr-05	12-Apr-07	Administration	43	4
+203191	Traci	Griffiths	14-Apr-05	14-Apr-07	Research	20	32
+203193	Rick	Young	14-Apr-05	14-Apr-07	Research	20	87
+203197	Valerie	Roberts	15-Apr-05	15-Apr-07	Research	28	39
+203201	Virginia	Decker	19-Apr-05	19-Apr-07	Research	24	96
+203205	Wayne	McGregor	22-Apr-05	22-Apr-07	Sales Support	28	95
+203212	Bryan	Litwin	26-Apr-05	26-Apr-07	Sales Support	21	18
+203222	Valerie	Parisien	9-May-05	9-May-07	Sales	47	37
+203232	Angie	Eisen	19-May-05	19-May-07	Finance	20	46
+203238	Yvonne	Hall	21-May-05	21-May-07	Systems	45	81
+203241	Colin	Thomas	21-May-05	21-May-07	Systems	20	55
+203244	Randal	Ennis	30-May-05	30-May-07	Distribution	50	63
+203246	Jenna	Reardon	1-Jun-05	1-Jun-07	Finance	22	90
+203251	Elisabeth	Blaquiere	6-Jun-05	6-Jun-07	Sales Support	34	57
+203254	Carol	Boschee	9-Jun-05	9-Jun-07	Distribution	20	86
+203257	Judy	Perkins	11-Jun-05	11-Jun-07	Sales	20	85
+203260	Frank	Ross	21-Jun-05	21-Jun-07	Administration	32	66
+203263	Paul	Perkins	21-Jun-05	21-Jun-07	Distribution	27	16
+203266	Millie	Goble	29-Jun-05	29-Jun-07	Distribution	20	73
+203271	Louis	McNeil	4-Jul-05	4-Jul-07	Systems	22	15
+203275	Veronica	Smith	18-Jul-05	18-Jul-07	Human Resources	39	44
+203284	Gerald	Webster	21-Jul-05	21-Jul-07	Accounting	20	91
+203287	Bill	Woo	22-Jul-05	22-Jul-07	Sales	20	82
+203289	Brian	Klassen	2-Aug-05	2-Aug-07	Communications	38	49
+203293	Kerry	Park	3-Aug-05	3-Aug-07	Communications	24	83
+203309	Karen	Mannila	16-Aug-05	16-Aug-07	Research	24	26
+203314	Sheryl	Foster	21-Aug-05	21-Aug-07	Engineering	26	94
+203318	Donna	Hitchcock	29-Aug-05	29-Aug-07	Sales Support	32	80
+203326	Val	Hobden	14-Sep-05	14-Sep-07	Sales	25	52
+203328	Grace	Behrns	16-Sep-05	16-Sep-07	Finance	40	80
+203343	Agatha	Lewis	28-Sep-05	28-Sep-07	Communications	26	68
+203358	Paulina	Hipwell	23-Oct-05	23-Oct-07	Administration	29	37
+203359	Alma	McKay	26-Oct-05	26-Oct-07	Accounting	32	73
+203367	Jan	Edwards	20-Nov-05	20-Nov-07	Sales	31	63
+203369	David	Momar	26-Nov-05	26-Nov-07	Sales	46	17
+203373	Melanie	Dempsey	26-Nov-05	26-Nov-07	Sales	23	25
+203391	Shamin	Williams	20-Dec-05	20-Dec-07	Administration	24	45
+203395	Justin	Jones	28-Dec-05	28-Dec-07	Sales	22	92
+203399	Mehdi	Boyko	31-Dec-05	31-Dec-07	Maintenance	21	8
+203414	Maria	Finch	9-Jan-06	9-Jan-07	Engineering	19	71
+203416	Ernest	Hopkins	10-Jan-06	10-Jan-07	Customer Service	19	14
+203430	Sheena	Louden	22-Jan-06	22-Jan-07	Sales	19	4
+203432	Dara	Cathcart	24-Jan-06	24-Jan-07	Sales Support	35	66
+203436	Katrina	Leslie	26-Jan-06	26-Jan-07	Customer Service	48	100
+203449	Garth	Joseph	31-Jan-06	31-Jan-07	Sales	19	38
+203456	Harriet	Redford	6-Feb-06	6-Feb-07	Sales Support	29	24
+203468	Melanie	Howell	16-Feb-06	16-Feb-07	Engineering	19	39
+203474	Jonathan	Dunlap	22-Feb-06	22-Feb-07	Communications	24	47
+203477	Jenn	Grigel	3-Mar-06	3-Mar-07	Customer Service	20	54
+203478	Wade	Bernys	5-Mar-06	5-Mar-07	Communications	34	84
+203486	Cecil	Thompson	21-Mar-06	21-Mar-07	Communications	20	12
+203487	Rebecca	Cantlon	22-Mar-06	22-Mar-07	Communications	19	81
+203488	Celeste	McDonald	26-Mar-06	26-Mar-07	Research	26	98
+203499	Sandra	Erne	11-Apr-06	11-Apr-07	Maintenance	29	54
+203518	Elizabeth	Merrill	26-Apr-06	26-Apr-07	Accounting	19	17
+203519	Susan	Chapin	30-Apr-06	30-Apr-07	Human Resources	38	6
+203520	Graham	Alegre	30-Apr-06	30-Apr-07	Accounting	27	42
+203544	Lori	Bornie	13-May-06	13-May-07	Sales	31	41
+203548	Lenora	Dorman	14-May-06	14-May-07	Customer Service	39	22
+203550	Renee	McNair	15-May-06	15-May-07	Distribution	46	61
+203554	Dana	Potter	17-May-06	17-May-07	Communications	21	47
+203573	Rita	Fairfax	24-May-06	24-May-07	Maintenance	19	28
+203576	Flora	Cahill	1-Jun-06	1-Jun-07	Maintenance	19	2
+203577	Leo	Randall	3-Jun-06	3-Jun-07	Customer Service	29	2
+203595	Ruby	Sauve	24-Jun-06	24-Jun-07	Maintenance	40	28
+203623	LeeAnn	Neuman	18-Jul-06	18-Jul-07	Finance	22	53
+203631	Gloria	Schwerdt	21-Jul-06	21-Jul-07	Communications	23	59
+203638	Tamara	Louden	27-Jul-06	27-Jul-07	Finance	29	12
+203640	Gord	Coreau	29-Jul-06	29-Jul-07	Accounting	19	85
+203647	Ben	Fraser	2-Aug-06	2-Aug-07	Maintenance	19	94
+203652	Alexander	Kopp	5-Aug-06	5-Aug-07	Sales	22	83
+203655	Curtis	Wheaton	8-Aug-06	8-Aug-07	Administration	21	81
+203658	Ralph	Heacock	10-Aug-06	10-Aug-07	Sales	30	89
+203660	Chelsey	Prescott	20-Aug-06	20-Aug-07	Engineering	22	66
+203661	Laurence	Kaytor	21-Aug-06	21-Aug-07	Finance	19	12
+203662	Alexa	Cope	24-Aug-06	24-Aug-07	Engineering	20	64
+203676	Laurence	Ascott	3-Sep-06	3-Sep-07	Sales	27	7
+203684	Rohan	Brideau	16-Sep-06	16-Sep-07	Maintenance	40	100
+203685	Penny	Verdone	16-Sep-06	16-Sep-07	Customer Service	29	98
+203687	Trudy	Read	18-Sep-06	18-Sep-07	Sales	20	66
+203721	Traci	Huber	3-Oct-06	3-Oct-07	Systems	19	68
+203738	Derek	Muir	18-Oct-06	18-Oct-07	Systems	50	20
+203740	Dan	Sontana	8-Nov-06	8-Nov-07	Customer Service	32	41
+203741	Diane	Lutz	10-Nov-06	10-Nov-07	Finance	42	91
+203758	Ross	Paget	17-Nov-06	17-Nov-07	Sales Support	21	54
+203763	Dana	Taylor	20-Nov-06	20-Nov-07	Research	19	67
+203788	Adriana	Dann	4-Dec-06	4-Dec-07	Sales Support	19	9
+203795	Ronita	Steinson	10-Dec-06	10-Dec-07	Sales Support	20	76
+203805	Rose	Bassen	11-Dec-06	11-Dec-07	Marketing	40	79
+203814	Lucy	Ciciretto	16-Dec-06	16-Dec-07	Administration	22	15
+203821	Vern	Collison	22-Dec-06	22-Dec-07	Finance	20	68
+203826	Anna	Metzger	24-Dec-06	24-Dec-07	Research	58	58
+203829	Graham	Buck	24-Dec-06	24-Dec-07	Accounting	19	47
+203834	Jenna	Koback	5-Jan-07	19-Sep-07	Sales	18	36
+203836	Christy	Eaton	6-Jan-07	2-Mar-07	Human Resources	36	33
+203876	Reginald	Dorman	1-May-07	3-Jun-07	Communications	18	56
+203882	Frances	Barr	3-Jun-07	20-Jan-07	Customer Service	63	88
+203889	Leona	Bordeleau	12-Jul-07	28-Sep-07	Systems	18	56
+203893	Ashley	Gagne	20-Jul-07	4-Jun-07	Administration	63	76
+203895	Lisa	Hayes	9-Aug-07	29-Apr-07	Engineering	46	42
+203900	Melissa	Stewart	30-Aug-07	21-Jul-07	Customer Service	38	2
+203907	Jody	Morrice	13-Sep-07	19-Feb-07	Finance	62	95
+203918	Steve	Beasse	26-Sep-07	30-Oct-07	Sales Support	34	18
+203928	Melinda	Morton	22-Nov-07	25-Mar-07	Research	59	23
+203941	Joel	Liska	14-Dec-07	17-Feb-07	Systems	19	96
